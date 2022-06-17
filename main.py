@@ -2,10 +2,10 @@ import requests
 import json
 
 # Api da "Ip_stack"
-access_key = "4b9354bb09e65257406c63d661cb935f"
+access_key = ""
 
 #Ip para localizar (mudar dps)
-ip = "134.201.250.155"
+ip = ""
 
 #Parametros da api
 params = [
